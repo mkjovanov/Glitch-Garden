@@ -28,5 +28,11 @@ namespace Assets.Scripts
 		{
 			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 		}
+
+		public void OnStartButtonSubmit()
+		{
+			Debug.Log("Level 01 loaded!");
+			LoadLevel("02 Level_01");
+		}
 	}
 }
