@@ -5,17 +5,24 @@ namespace Assets.Scripts
 {
 	public class LevelManager : MonoBehaviour
 	{
-		public float LoadNextLevelAfter;
+		public int AutoLoadNextLevelAfter;
 
 		public void Start()
 		{
-			Invoke("LoadNextLevel", LoadNextLevelAfter);
+			if (AutoLoadNextLevelAfter == 0)
+			{
+				Debug.Log("AutoLoadNextLevelAfter was 0.");
+			}
+			else
+			{
+				Invoke("LoadNextLevel", AutoLoadNextLevelAfter);
+			}
 		}
 
-		public void LoadLevel(string name)
+		public void LoadLevel(string levelName)
 		{
-			Debug.Log("New Level load: " + name);
-			SceneManager.LoadScene(name);
+			Debug.Log("New Level load: " + levelName);
+			SceneManager.LoadScene(levelName);
 		}
 
 		public void QuitRequest()
@@ -27,6 +34,12 @@ namespace Assets.Scripts
 		public void LoadNextLevel()
 		{
 			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+		}
+
+		public void OnStartButtonSubmit()
+		{
+			Debug.Log("Level 01 loaded!");
+			LoadLevel("02 Level_01");
 		}
 	}
 }
