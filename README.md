@@ -1,2 +1,2 @@
-# Unity-Playground
-Unity playground for various courses, excercises, and brain storming ideas.
+# Glitch-Garden
+Unity Glitch Garden remake.
