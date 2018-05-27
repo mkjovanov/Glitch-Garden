@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 440cd6400da22444babbecda019416cc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_chicken__x1_land_on_ladder_png_1354830390_0
+    21300002: npc_chicken__x1_land_on_ladder_png_1354830390_1
+    21300004: npc_chicken__x1_land_on_ladder_png_1354830390_2
+    21300006: npc_chicken__x1_land_on_ladder_png_1354830390_3
+    21300008: npc_chicken__x1_land_on_ladder_png_1354830390_4
+    21300010: npc_chicken__x1_land_on_ladder_png_1354830390_5
+    21300012: npc_chicken__x1_land_on_ladder_png_1354830390_6
+    21300014: npc_chicken__x1_land_on_ladder_png_1354830390_7
+    21300016: npc_chicken__x1_land_on_ladder_png_1354830390_8
+    21300018: npc_chicken__x1_land_on_ladder_png_1354830390_9
+    21300020: npc_chicken__x1_land_on_ladder_png_1354830390_10
+    21300022: npc_chicken__x1_land_on_ladder_png_1354830390_11
+    21300024: npc_chicken__x1_land_on_ladder_png_1354830390_12
+    21300026: npc_chicken__x1_land_on_ladder_png_1354830390_13
+    21300028: npc_chicken__x1_land_on_ladder_png_1354830390_14
+    21300030: npc_chicken__x1_land_on_ladder_png_1354830390_15
+    21300032: npc_chicken__x1_land_on_ladder_png_1354830390_16
+    21300034: npc_chicken__x1_land_on_ladder_png_1354830390_17
+    21300036: npc_chicken__x1_land_on_ladder_png_1354830390_18
+    21300038: npc_chicken__x1_land_on_ladder_png_1354830390_19
+    21300040: npc_chicken__x1_land_on_ladder_png_1354830390_20
+    21300042: npc_chicken__x1_land_on_ladder_png_1354830390_21
+    21300044: npc_chicken__x1_land_on_ladder_png_1354830390_22
+    21300046: npc_chicken__x1_land_on_ladder_png_1354830390_23
+    21300048: npc_chicken__x1_land_on_ladder_png_1354830390_24
+    21300050: npc_chicken__x1_land_on_ladder_png_1354830390_25
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fef5662a9b4ae4cac83aa8d0fc14fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 440
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694833f137cc28b4e97b20ac613cebb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 440
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cd5e6cf4f8f2042ba0265361165889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 440
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe1c754fcb61546945404321f28ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 440
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440cee90e54e7404790ff8a427d75115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 440
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2fd864d43f0c4cb207829953713c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25224be234be4d44f8152b9e9ca30445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 330
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f645f9a78ebfb842a5a3d745ad717b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 330
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7ead283085224890da859d3945c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 330
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932decee05d11fd48b07fde6569a6dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 330
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ad6ddfb1f32340a5f651ac4b9ad88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 330
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318efbe489089734f9c5c4fedd3979ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3670a14d32db37498c21b6c023df216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 220
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd0ae14a60f4424087ef84f2d24af82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 220
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab1d2de7589164fa75f816a1a0d224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 220
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9ecfe0bdff2534a99251f1434ea22c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 220
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0dfe573237ae488ab6b9ecbac9866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 220
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980976f3b747ff94ab99401eb4415296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a959ae79c72cf4686b16de246121d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 110
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7516b5ad723e354f9e0dd13a9faad22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 110
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec0ed6a581f6549ba338a72a493619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 110
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88a6f264d9c18478f65e51754a8dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 110
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d675e1383c734c9af10f67237c183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 110
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853dbb191053a644c9332bfff0ef267e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965193bfd41bcd41b5519d6652774d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_land_on_ladder_png_1354830390_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394de360a7f02045874f1ab9ebb40de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -334, y: -191}
+      - {x: -344, y: -191}
+      - {x: -345, y: -192}
+      - {x: -361, y: -228}
+      - {x: -361, y: -253}
+      - {x: -357, y: -258}
+      - {x: -335, y: -258}
+      - {x: -319, y: -235}
+      - {x: -319, y: -210}
+      - {x: -322, y: -197}
+    - - {x: -202, y: -191}
+      - {x: -213, y: -228}
+      - {x: -213, y: -257}
+      - {x: -210, y: -258}
+      - {x: -185, y: -258}
+      - {x: -171, y: -240}
+      - {x: -171, y: -210}
+      - {x: -179, y: -191}
+    - - {x: -331, y: -81}
+      - {x: -343, y: -81}
+      - {x: -361, y: -114}
+      - {x: -361, y: -143}
+      - {x: -355, y: -149}
+      - {x: -335, y: -149}
+      - {x: -319, y: -128}
+      - {x: -319, y: -98}
+      - {x: -323, y: -87}
+    - - {x: -185, y: -81}
+      - {x: -195, y: -81}
+      - {x: -201, y: -84}
+      - {x: -213, y: -126}
+      - {x: -213, y: -147}
+      - {x: -209, y: -149}
+      - {x: -187, y: -149}
+      - {x: -171, y: -131}
+      - {x: -171, y: -111}
+      - {x: -173, y: -87}
+    - - {x: -48, y: -81}
+      - {x: -52, y: -85}
+      - {x: -65, y: -115}
+      - {x: -65, y: -147}
+      - {x: -62, y: -149}
+      - {x: -37, y: -149}
+      - {x: -24, y: -133}
+      - {x: -24, y: -94}
+      - {x: -32, y: -81}
+    - - {x: 100, y: -81}
+      - {x: 83, y: -102}
+      - {x: 83, y: -148}
+      - {x: 110, y: -148}
+      - {x: 125, y: -141}
+      - {x: 125, y: -95}
+      - {x: 119, y: -81}
+    - - {x: 260, y: -81}
+      - {x: 248, y: -81}
+      - {x: 231, y: -105}
+      - {x: 231, y: -148}
+      - {x: 253, y: -148}
+      - {x: 273, y: -131}
+      - {x: 273, y: -117}
+      - {x: 268, y: -88}
+    - - {x: 394, y: -81}
+      - {x: 379, y: -117}
+      - {x: 379, y: -146}
+      - {x: 380, y: -148}
+      - {x: 400, y: -148}
+      - {x: 421, y: -133}
+      - {x: 421, y: -102}
+      - {x: 413, y: -81}
+    - - {x: -343, y: 28}
+      - {x: -349, y: 25}
+      - {x: -358, y: -6}
+      - {x: -361, y: -18}
+      - {x: -361, y: -35}
+      - {x: -360, y: -40}
+      - {x: -328, y: -40}
+      - {x: -320, y: -22}
+      - {x: -320, y: 20}
+      - {x: -326, y: 28}
+    - - {x: -178, y: 28}
+      - {x: -197, y: 28}
+      - {x: -201, y: 26}
+      - {x: -212, y: -14}
+      - {x: -212, y: -36}
+      - {x: -211, y: -40}
+      - {x: -188, y: -40}
+      - {x: -176, y: -28}
+      - {x: -172, y: -21}
+      - {x: -172, y: 13}
+    - - {x: -64, y: -17}
+      - {x: -64, y: -39}
+      - {x: -63, y: -40}
+      - {x: -42, y: -40}
+      - {x: -24, y: -26}
+      - {x: -24, y: 8}
+      - {x: -27, y: 21}
+      - {x: -33, y: 28}
+      - {x: -47, y: 28}
+      - {x: -54, y: 26}
+    - - {x: 112, y: 27}
+      - {x: 111, y: 28}
+      - {x: 101, y: 28}
+      - {x: 85, y: 1}
+      - {x: 84, y: -15}
+      - {x: 84, y: -35}
+      - {x: 92, y: -40}
+      - {x: 110, y: -40}
+      - {x: 124, y: -19}
+      - {x: 124, y: 11}
+      - {x: 120, y: 20}
+    - - {x: 259, y: 28}
+      - {x: 249, y: 28}
+      - {x: 248, y: 27}
+      - {x: 232, y: -12}
+      - {x: 232, y: -33}
+      - {x: 235, y: -39}
+      - {x: 259, y: -39}
+      - {x: 273, y: -15}
+      - {x: 273, y: 9}
+      - {x: 270, y: 21}
+    - - {x: 380, y: -36}
+      - {x: 382, y: -39}
+      - {x: 401, y: -39}
+      - {x: 420, y: -29}
+      - {x: 420, y: -6}
+      - {x: 419, y: 24}
+      - {x: 412, y: 29}
+      - {x: 397, y: 29}
+      - {x: 380, y: 0}
+    - - {x: 379, y: 110}
+      - {x: 379, y: 73}
+      - {x: 381, y: 70}
+      - {x: 403, y: 70}
+      - {x: 420, y: 83}
+      - {x: 420, y: 125}
+      - {x: 418, y: 133}
+      - {x: 412, y: 138}
+      - {x: 397, y: 138}
+      - {x: 389, y: 136}
+    - - {x: 229, y: 74}
+      - {x: 230, y: 71}
+      - {x: 259, y: 71}
+      - {x: 273, y: 77}
+      - {x: 273, y: 105}
+      - {x: 270, y: 137}
+      - {x: 266, y: 139}
+      - {x: 244, y: 139}
+      - {x: 229, y: 116}
+    - - {x: 91, y: 140}
+      - {x: 79, y: 101}
+      - {x: 79, y: 73}
+      - {x: 80, y: 72}
+      - {x: 107, y: 72}
+      - {x: 125, y: 85}
+      - {x: 125, y: 113}
+      - {x: 109, y: 140}
+    - - {x: -44, y: 141}
+      - {x: -59, y: 141}
+      - {x: -70, y: 105}
+      - {x: -72, y: 95}
+      - {x: -72, y: 75}
+      - {x: -64, y: 73}
+      - {x: -41, y: 73}
+      - {x: -25, y: 78}
+      - {x: -23, y: 88}
+      - {x: -23, y: 122}
+    - - {x: -182, y: 142}
+      - {x: -204, y: 142}
+      - {x: -221, y: 108}
+      - {x: -221, y: 100}
+      - {x: -215, y: 92}
+      - {x: -211, y: 92}
+      - {x: -214, y: 92}
+      - {x: -219, y: 90}
+      - {x: -221, y: 85}
+      - {x: -221, y: 76}
+      - {x: -216, y: 74}
+      - {x: -188, y: 74}
+      - {x: -171, y: 86}
+      - {x: -171, y: 114}
+      - {x: -176, y: 137}
+    - - {x: -324, y: 146}
+      - {x: -341, y: 146}
+      - {x: -375, y: 119}
+      - {x: -375, y: 80}
+      - {x: -368, y: 77}
+      - {x: -342, y: 77}
+      - {x: -318, y: 88}
+      - {x: -318, y: 138}
+    - - {x: 271, y: 260}
+      - {x: 247, y: 260}
+      - {x: 237, y: 259}
+      - {x: 223, y: 237}
+      - {x: 223, y: 203}
+      - {x: 233, y: 199}
+      - {x: 281, y: 199}
+      - {x: 281, y: 253}
+    - - {x: 79, y: 261}
+      - {x: 75, y: 255}
+      - {x: 75, y: 209}
+      - {x: 76, y: 208}
+      - {x: 100, y: 200}
+      - {x: 132, y: 200}
+      - {x: 132, y: 261}
+    - - {x: 396, y: 259}
+      - {x: 371, y: 242}
+      - {x: 371, y: 208}
+      - {x: 380, y: 200}
+      - {x: 427, y: 200}
+      - {x: 430, y: 203}
+      - {x: 430, y: 244}
+      - {x: 425, y: 259}
+    - - {x: -64, y: 264}
+      - {x: -74, y: 248}
+      - {x: -74, y: 203}
+      - {x: -65, y: 202}
+      - {x: -14, y: 202}
+      - {x: -14, y: 264}
+    - - {x: -203, y: 268}
+      - {x: -222, y: 251}
+      - {x: -222, y: 214}
+      - {x: -206, y: 204}
+      - {x: -173, y: 204}
+      - {x: -160, y: 243}
+      - {x: -160, y: 266}
+      - {x: -162, y: 268}
+    - - {x: -338, y: 273}
+      - {x: -371, y: 264}
+      - {x: -371, y: 231}
+      - {x: -343, y: 208}
+      - {x: -328, y: 208}
+      - {x: -304, y: 257}
+      - {x: -304, y: 265}
+      - {x: -313, y: 273}
+    physicsShape: []
+    bones: []
+    spriteID: ccaa524652919014dac37ba2bb0b1eec
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
